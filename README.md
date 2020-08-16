@@ -1,5 +1,8 @@
 # Plant-Leaf-Recognition-using-CNN (Python-Flask and Tkinter)
+The final code will be uploaded soon.
+
 Recognition of leaves of plant using Convolution Neural Network.
+
 This Project can be deplyed on cloud servers such as using AWS, Google Cloud,etc and also the stand-alone application using python-tkinter.
 
 The traditional method of classification of leaves or any of the agricultural or environmental
